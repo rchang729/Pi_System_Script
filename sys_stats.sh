@@ -1,5 +1,7 @@
-#!\bin\bash add shebang here
+# add shebang here
+!\bin\bash
 # add any contributor names in a comment here
+# Roger Chang 
 
 #************************************#
 #******* OUTPUT SYSTEM STATS ********#
